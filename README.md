@@ -28,6 +28,22 @@ Information Systems Student
 
 ---
 
+## ♡ Find Me Here
+
+<div align="center">
+
+<a href="mailto: rizmilyn@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-C6539B?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/rvnaaft">
+  <img src="https://img.shields.io/badge/INSTAGRAM-9B59B6?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ### ♡ Thanks for visiting ♡
