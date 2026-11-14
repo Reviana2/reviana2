@@ -34,9 +34,7 @@ Information Systems Student
 
 ## ♡ GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Reviana2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F28BCB&text_color=EADCF8&icon_color=C6539B" />
+![Reviana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reviana2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F28BCB&icon_color=C6539B&text_color=EADCF8)
 
 </div>
 
