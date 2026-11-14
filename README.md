@@ -1,18 +1,14 @@
 <div align="center">
 
-# <span style="color:#F28BCB">♡ Reviana Fitri ♡</span>
+# ♡ Reviana Fitri ♡
 
 ### Information Systems Student
 
-<p style="color:#C9A5E8">
-Welcome to my little world ♡
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=18&duration=3000&pause=1000&color=F28BCB&center=true&vCenter=true&width=450&lines=Welcome+to+my+little+world+%E2%99%A1;Dream+%E2%9C%A7+Learn+%E2%9C%A7+Create;Have+a+lovely+day+%E2%99%A1" />
 
-୨୧ ───────── ✧ ───────── ୨୧
+♡ ───────── ୨୧ ───────── ♡
 
 </div>
-
----
 
 ## ♡ About Me
 
@@ -26,15 +22,7 @@ Information Systems Student
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,vscode&theme=dark" />
-
-</div>
-
----
-
-## ♡ GitHub Stats
-
-![Reviana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reviana2&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F28BCB&icon_color=C6539B&text_color=EADCF8)
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql&theme=dark" />
 
 </div>
 
@@ -42,6 +30,10 @@ Information Systems Student
 
 <div align="center">
 
-♡ ୨୧ ✧ Thanks for visiting ✧ ୨୧ ♡
+### ♡ Thanks for visiting ♡
+
+୨୧ ✧ Keep learning and keep growing ✧ ୨୧
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100D18,50:C6539B,100:F28BCB&height=90&section=footer" width="100%" />
 
 </div>
